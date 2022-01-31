@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+a {
+  color: white;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #C60021;
+  text-decoration:underline;
+}
+
+h1 {
+  line-height: 2;
+  color: white;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  text-decoration: underline;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+  margin: 40px auto 40px auto;
+  border: dotted;
+  color: gray;
+  border-bottom: none;
+  width: 4%;
+}
+
+.top-container {
+  background-color: #728FCE;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 20px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  margin-top: 40px;
+  padding: 25px 0 20px;
+  line-height: 3;
+  background-color: #728FCE
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.pro:hover {
+  color: #C60021;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  right: 900px;
+  top: 400px;
+}
+
+p1:hover{
+  color: #C60021;
+  font-size: 18px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto
+  width: 50%;
+}
+
+.Table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.programmer {
+  color: white;
+  font-size: 2em;
+}
+
+.skills-gif {
+  width: 10%;
+}
+
+.education-cap {
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+.mail-gif {
+  width: 10%;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #2fa0eb;
+  padding: 2px 10px 2px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #C60021;
+  text-decoration: none;
+}
+
+.get-in-touch {
+  line-height: 2;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.copyright {
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
